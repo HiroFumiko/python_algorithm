@@ -1,2 +1,2 @@
-# python_algorithm
- 基本的なアルゴリズムの勉強
+# Pythonでのアルゴリズム勉強
+AtCoder Problemsをpythonを用いて解いていく
